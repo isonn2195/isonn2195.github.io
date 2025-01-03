@@ -75,10 +75,10 @@ footer {
     width: 100%;
 }
 
-/* Hide all sections by default */
+/* Hide all sections by default 
 .section {
     display: none;
-}
+}*/
 
 /* Make the active section visible */
 .active {
